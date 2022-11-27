@@ -1,0 +1,42 @@
+/* Notes: 
+color: green !important; - the important will ensure it's respected above all other css
+
+*/
+
+
+
+/* Resetting the box to be a border box which will adjust the content inside the box so the height and width remain fixed */
+* {
+    box-sizing: border-box;
+  }
+
+
+
+
+
+
+
+
+p {
+    color: green !important;
+  }
+
+  h1 {
+    color: darkgreen;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+a:hover {
+    color:darkorange;
+  }
+
