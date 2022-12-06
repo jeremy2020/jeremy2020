@@ -1,6 +1,6 @@
 /* Notes: 
 color: green !important; - the important will ensure it's respected above all other css
-
+position: fixed (scrolls with content), absolute (stays in place), relative (moves relative to parent element), static (stays in place), sticky (scrolls, remains in relative position)
 */
 
 
